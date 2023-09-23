@@ -1,0 +1,32 @@
+-MAKEUD=C:\Users\mehmetaligok\e2_studio\workspace\ADC\HardwareDebug/ADC_l.ud
+-device="C:/Users/mehmetaligok/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F1026A.DVF"
+-list="ADC.map"
+-nooptimize
+-entry=_start
+-auto_section_layout
+-security_id=00000000000000000000
+-debug_monitor=3E00-3FFF
+-user_opt_byte=EFFFE0
+-ocdbg=84
+-input=".\generate\cstart.obj"
+-input=".\generate\stkinit.obj"
+-input=".\src\r_cg_adc.obj"
+-input=".\src\r_cg_adc_user.obj"
+-input=".\src\r_cg_cgc.obj"
+-input=".\src\r_cg_cgc_user.obj"
+-input=".\src\r_cg_port.obj"
+-input=".\src\r_cg_port_user.obj"
+-input=".\src\r_cg_serial.obj"
+-input=".\src\r_cg_serial_user.obj"
+-input=".\src\r_main.obj"
+-input=".\src\r_systeminit.obj"
+-library="C:\Program Files (x86)\Renesas\RL78\1_12_0\lib\rl78cm4s.lib"
+-library="C:\Program Files (x86)\Renesas\RL78\1_12_0\lib\rl78cm4r.lib"
+-library="C:\Program Files (x86)\Renesas\RL78\1_12_0\lib\malloc_n.lib"
+-output="ADC.abs"
+-debug
+-nocompress
+-memory=high
+-rom=.data=.dataR,.sdata=.sdataR
+-nomessage
+-nologo

@@ -1,0 +1,8 @@
+-cpu=S2
+-c
+-dev="C:/Users/mehmetaligok/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F1026A.DVF"
+-MAKEUD="C:\Users\mehmetaligok\e2_studio\workspace\ADC\HardwareDebug\src"
+-I "C:/Users/mehmetaligok/e2_studio/workspace/ADC/generate" 
+-character_set=utf8
+-lang=c
+-g

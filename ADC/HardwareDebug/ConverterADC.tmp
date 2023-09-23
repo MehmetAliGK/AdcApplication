@@ -1,0 +1,8 @@
+-MAKEUD=C:\Users\mehmetaligok\e2_studio\workspace\ADC\HardwareDebug\\ADC_c.ud
+-form=stype
+-output="ADC.mot"
+-record=s2
+-end_record=s9
+-byte_count=10
+-nomessage
+-nologo

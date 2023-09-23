@@ -1,0 +1,8 @@
+<SimulatorProject>
+  <GUI>
+    <Simulator-EditWave-WindowCount>0</Simulator-EditWave-WindowCount>
+    <Simulator-Panel-WindowCount>0</Simulator-Panel-WindowCount>
+    <Simulator-PrmFile-Contents>AQAAABMAAABzdGRpbwADCeD1oAMAAAAAoPagA2CNznaMQQteaPegAwEAAAAw9qADEw/MdjQlPgFU9qADAAAAAKxvzHYAAAAAAAAAADAlPgEAMf1u8PagAwCkyHag9qADALfLdqz2oAMDUl1vAQAAADAlPgHQwb51CAAAAFBRXW8vU11voPagA3O3y3aMpch2lKXIdgcAAABAUnQD8PagA0Bb2Hblqv9u0MG+dWj3oANAU11vCAAAAMT2oAOr6U12wPagA5JOy3ZQJT4B6PagA05TXW8wJT4BMQb+bp7BjjIAAAAAHPegA/j2oAPe0ABv/////wT3oAOBBv5ucsCOMmT3oAM096ADJwAAAAEAAQABAAAAECcAAAAAAAAA6////wgAAAAwMDAwMDAwMAIAAAAuXA==</Simulator-PrmFile-Contents>
+    <Simulator-PrsFile-Contents>W1BhbmVsXQ0KUHVsbFVwIFBpbnM9DQpQdWxsRG93biBQaW5zPQ0KW01haW5dDQpGbGFnPTANClNob3dTdHlsZT0yDQpNaW5Qb3NpdGlvbi1YPS0zMjAwMA0KTWluUG9zaXRpb24tWT0tMzIwMDANCk1heFBvc2l0aW9uLVg9LTENCk1heFBvc2l0aW9uLVk9LTENCk5vcm1hbFBvc2l0aW9uLUxlZnQ9MTIyDQpOb3JtYWxQb3NpdGlvbi1Ub3A9MjEzDQpOb3JtYWxQb3NpdGlvbi1SaWdodD0xNTYyDQpOb3JtYWxQb3NpdGlvbi1Cb3R0b209OTY2DQo=</Simulator-PrsFile-Contents>
+  </GUI>
+</SimulatorProject>

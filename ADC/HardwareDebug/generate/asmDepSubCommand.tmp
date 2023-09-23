@@ -1,0 +1,7 @@
+-asmopt=-MM
+-asmopt=-MP
+-cpu=S2
+-c
+-dev="C:/Users/mehmetaligok/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F1026A.DVF"
+-character_set=utf8
+-g
